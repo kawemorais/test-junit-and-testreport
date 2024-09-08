@@ -5,7 +5,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 @ExtendWith(MockitoExtension.class)
-class ParameterEmailServiceImplTest {
+class ParameterEmailServiceImpl2Test {
 
     @Test
     void test1(){
