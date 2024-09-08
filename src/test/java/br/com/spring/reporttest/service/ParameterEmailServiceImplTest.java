@@ -36,4 +36,24 @@ class ParameterEmailServiceImplTest {
     void test6(){
 
     }
+
+    @Test
+    void test7(){
+
+    }
+
+    @Test
+    void test8(){
+
+    }
+
+    @Test
+    void test9(){
+
+    }
+
+    @Test
+    void test10(){
+
+    }
 }
